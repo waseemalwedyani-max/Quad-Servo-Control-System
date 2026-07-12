@@ -16,6 +16,8 @@ You can view and run the interactive simulation of this project directly on Tink
 
 ## 🛠️ Technical Implementation Process
 A structured engineering approach was followed to execute this task:
+<img width="1165" height="754" alt="image" src="https://github.com/user-attachments/assets/210e0501-8543-43a1-8b48-ef80410b5063" />
+
 
 **1. Hardware Setup & Wiring Phase**
 * **Power Distribution:** A half-size breadboard was utilized to map shared 5V and GND rails. This ensures the Arduino's internal voltage regulator is protected from the high current draw required by four simultaneous inductive loads.
