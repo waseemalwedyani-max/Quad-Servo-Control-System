@@ -1,3 +1,4 @@
+"""# 🚀 Quad-Servo Control System
 ## 📄 Project Overview
 
 This project constitutes a practical submission for the assigned task under the Smart Methods Summer Training 2026 program. The primary objective was to design, wire, and simulate an embedded control system using an Arduino Uno to synchronously operate four micro servo motors. The system focuses on safe power distribution and non-blocking time management to execute precise mechanical movements.
