@@ -29,3 +29,8 @@ A structured engineering approach was followed to execute this task:
 
 Below is the simplified, highly readable core logic used to drive the servos based on system uptime:
 <img width="429" height="751" alt="Screenshot 2026-07-12 055114" src="https://github.com/user-attachments/assets/06ee550f-2a5e-41b4-a03d-42b06f2b96ac" />
+
+---
+## 🔗 Simulation Link
+You can view and run the live simulation of this project on Tinkercad here:
+[Click here to open the Tinkercad Simulation]((https://www.tinkercad.com/things/dQmnYFLVLkk-quad-servo-control-system))
