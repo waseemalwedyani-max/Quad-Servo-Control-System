@@ -1,4 +1,4 @@
-readme_content = """# 🚀 Quad-Servo Control System
+🚀 Quad-Servo Control System
 
 ## 📄 Project Overview
 
